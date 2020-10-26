@@ -1,24 +1,24 @@
 # _amFOSS-tasks Repo_ - By Tarun Raveesh 
-My name's Tarun Raveesh, fresher at Amrita University ( S1 - CSE 2020). Tried to give my best shot at this 😊.
+My name's Tarun Raveesh (S1 - CSE A [2020]), I'm a Computer Software cum Hardware enthusiast.
 
+I am looking forward to joining The amFOSS Club, have tried to give my best short at these Tasks.
 ## Table of Contents
 
-
-| **Task** | **Description** |
-| --- | --- |
-| <a> Task-00 </a> | Install Ubuntu 20.04 [Desktop] |
-| <a> Task-01 </a> | Star all the amFOSS repositories |
-| <a> Task-02 </a> | Register your nickname in IRC Freenode |
-| <a> Task-03 </a> | Programming|
-| <a> Task-04 </a> | Debugging Derbies |
-| <a> Task-05 </a> | Rustic Scraper  |
-| <a> Task-06 </a> | Geddit |
-| <a> Task-07 </a> | Ubiquitous UI |
-| <a> Task-08 </a> | Sir Perceval’s quest |
-| <a> Task-09 </a> | Spammer Spaghetti |
-| <a> Task-10 </a> | CS50 |
-| <a> Task-11 </a> | Poster Design |
-| <a> Task-12 </a> | If Math was fun :P - Codechef |
-| <a> Task-13 </a> | Circuit Design |
-| <a> Task-14 </a> | Bandit |
-| <a> Task-15 </a> | Project Euler |
+| **Task** | **Description** | **Status** |
+| --- | --- | --- |
+| <a href="https://github.com/TarunRaveesh/amFOSS-tasks/tree/main/Task-00">Task-00</a> | Install Ubuntu 20.04 [Desktop] | Completed |
+| <a href="https://github.com/TarunRaveesh/amFOSS-tasks/tree/main/Task-01">Task-01</a> | Star all the amFOSS repositories | Pending |
+| <a href="https://github.com/TarunRaveesh/amFOSS-tasks/tree/main/Task-02">Task-02</a> | Register your nickname in IRC Freenode |  Pending |
+| <a href="https://github.com/TarunRaveesh/amFOSS-tasks/tree/main/Task-03">Task-03</a> | Programming| Pending |
+| <a href="https://github.com/TarunRaveesh/amFOSS-tasks/tree/main/Task-04">Task-04</a> | Debugging Derbies | Pending |
+| <a href="https://github.com/TarunRaveesh/amFOSS-tasks/tree/main/Task-05">Task-05</a> | Rustic Scraper  | Pending |
+| <a href="https://github.com/TarunRaveesh/amFOSS-tasks/tree/main/Task-06">Task-06</a> | Geddit | Pending |
+| <a href="https://github.com/TarunRaveesh/amFOSS-tasks/tree/main/Task-07">Task-07</a> | Ubiquitous UI | Pending |
+| <a href="https://github.com/TarunRaveesh/amFOSS-tasks/tree/main/Task-08">Task-08</a> | Sir Perceval’s quest | Pending |
+| <a href="https://github.com/TarunRaveesh/amFOSS-tasks/tree/main/Task-09">Task-09</a> | Spammer Spaghetti | Pending |
+| <a href="https://github.com/TarunRaveesh/amFOSS-tasks/tree/main/Task-10">Task-10</a> | CS50 | Pending |
+| <a href="https://github.com/TarunRaveesh/amFOSS-tasks/tree/main/Task-11">Task-11</a> | Poster Design | Pending |
+| <a href="https://github.com/TarunRaveesh/amFOSS-tasks/tree/main/Task-12">Task-12</a> | If Math was fun :P - Codechef | Pending |
+| <a href="https://github.com/TarunRaveesh/amFOSS-tasks/tree/main/Task-13">Task-13</a> | Circuit Design | Pending |
+| <a href="https://github.com/TarunRaveesh/amFOSS-tasks/tree/main/Task-14">Task-14</a> | Bandit | Pending |
+| <a href="https://github.com/TarunRaveesh/amFOSS-tasks/tree/main/Task-15">Task-15</a> | Project Euler | Pending |
