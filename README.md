@@ -1,7 +1,7 @@
 # _amFOSS-tasks Repo_ - By Tarun Raveesh 
-My name is Tarun Raveesh (S1 - CSE A [2020]), I'm a Computer Software cum Hardware enthusiast.
+Hi there..!! This is Tarun, a Computer Software cum Hardware enthusiast.
 
-I am looking forward to joining The amFOSS Club, have tried to give my best short at these Tasks 😁.
+I am looking forward to joining amFOSS Club, have tried to give my best short at these Tasks 😁.
 ## Table of Contents
 
 | **Task** | **Description** | **Status** |
