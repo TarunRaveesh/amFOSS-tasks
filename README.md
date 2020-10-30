@@ -1,7 +1,8 @@
-# _amFOSS-tasks Repo_ - By Tarun Raveesh 
-Hi there..!! This is Tarun, a Computer Software cum Hardware enthusiast.
+# _amFOSS-tasks Repo_ - By Tarun Raveesh
 
-I am looking forward to joining amFOSS Club, have tried to give my best short at these Tasks 😁.
+Hi there..!!
+I'm Tarun, CSE A S1 2020 Branch.
+
 ## Table of Contents
 
 | **Task** | **Description** | **Status** |
