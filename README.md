@@ -3,7 +3,7 @@
 Hi there..!!
 This is Tarun Raveesh of CSE A S1 2020 Batch.
 
-## Table of Contents
+## Contents
 
 | **Task** | **Description** | **Status** |
 | --- | --- | --- |
