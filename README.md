@@ -8,7 +8,7 @@ This is Tarun Raveesh of CSE A S1 2020 Batch.
 | **Task** | **Description** | **Status** |
 | --- | --- | --- |
 | <a href="https://github.com/TarunRaveesh/amFOSS-tasks/tree/main/Task-00">Task-00</a> | Install Ubuntu 20.04 [Desktop] | Completed |
-| <a href="https://github.com/TarunRaveesh/amFOSS-tasks/tree/main/Task-01">Task-01</a> | Star all the amFOSS repositories | Pending |
+| <a href="https://github.com/TarunRaveesh/amFOSS-tasks/tree/main/Task-01">Task-01</a> | Star all the amFOSS repositories | Completed |
 | <a href="https://github.com/TarunRaveesh/amFOSS-tasks/tree/main/Task-02">Task-02</a> | Register your nickname in IRC Freenode |  Pending |
 | <a href="https://github.com/TarunRaveesh/amFOSS-tasks/tree/main/Task-03">Task-03</a> | Programming| Pending |
 | <a href="https://github.com/TarunRaveesh/amFOSS-tasks/tree/main/Task-04">Task-04</a> | Debugging Derbies | Pending |
