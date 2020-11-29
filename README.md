@@ -18,7 +18,7 @@ This is Tarun Raveesh of CSE A S1 2020 Batch.
 | <a href="https://github.com/TarunRaveesh/amFOSS-tasks/tree/main/Task-08">Task-08</a> | Sir Perceval’s quest | Pending |
 | <a href="https://github.com/TarunRaveesh/amFOSS-tasks/tree/main/Task-09">Task-09</a> | Spammer Spaghetti | Completed |
 | <a href="https://github.com/TarunRaveesh/amFOSS-tasks/tree/main/Task-10">Task-10</a> | CS50 | Completed |
-| <a href="https://github.com/TarunRaveesh/amFOSS-tasks/tree/main/Task-11">Task-11</a> | Poster Design | Pending |
+| <a href="https://github.com/TarunRaveesh/amFOSS-tasks/tree/main/Task-11">Task-11</a> | Poster Design | Completed |
 | <a href="https://github.com/TarunRaveesh/amFOSS-tasks/tree/main/Task-12">Task-12</a> | If Math was fun :P - Codechef | Pending |
 | <a href="https://github.com/TarunRaveesh/amFOSS-tasks/tree/main/Task-13">Task-13</a> | Circuit Design | Pending |
 | <a href="https://github.com/TarunRaveesh/amFOSS-tasks/tree/main/Task-14">Task-14</a> | Bandit | Completed |
