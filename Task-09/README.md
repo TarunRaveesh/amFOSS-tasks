@@ -21,22 +21,6 @@ However, different web browser consoles seem to have a bit difference in between
 
 Now coming to the actual task, I spammed a hundred 'Hi' messages to my friend in the Telegram Web using the Console in Microsoft Edge... Damn, that was soo much fun. But he's a close friend hence was okay with it lol... 😜
 
-##### Here's My Javascript Code I used in the console:
+##### Check out my Javascript Code in the 'Task9.js' file
 
-```javascript
-var text = "Hi"; //Type in the spam message 
-var interval = 1  ; // Interval gap b/w each message 
-var count = 100 ; //number of times to send
-var notifyInterval = 5 ; //No. of times
-var i = 0 ;
-var timer = setInterval(function(){
-	document.getElementsByClassName('composer_rich_textarea')[0].innerHTML = text;
-	$('.im_submit').trigger('mousedown');	
-	i++;
-	if( i  == count )
-	clearInterval(timer);
-	if( i % notifyInterval == 0)
-	console.log(i + ' MESSAGES SENT');
-} , interval * 1000 ) ;
-```
-I'll have uploded a video, do check that out...
+I'll also have uploded a video, do check that out...
