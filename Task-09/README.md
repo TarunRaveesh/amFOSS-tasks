@@ -21,6 +21,4 @@ However, different web browser consoles seem to have a bit difference in between
 
 Now coming to the actual task, I spammed a hundred 'Hi' messages to my friend in the Telegram Web using the Console in Microsoft Edge... Damn, that was soo much fun. But he's a close friend hence was okay with it lol... 😜
 
-##### Check out my Javascript Code in the 'Task9.js' file
-
-I'll also have uploded a video, do check that out...
+##### Check out my Javascript Code in the 'Task9.js' file, I'll also have uploded a video, do check that out...
