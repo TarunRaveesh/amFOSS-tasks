@@ -1,7 +1,7 @@
 # amFOSS-tasks Repo - _By Tarun Raveesh_
 
 Hi there..!!
-This is Tarun Raveesh of CSE A S1 2020 Batch.
+This is Tarun Raveesh of CSE A S2 2020.
 
 ## Contents
 
