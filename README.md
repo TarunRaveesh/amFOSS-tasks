@@ -1,5 +1,4 @@
 # amFOSS-tasks Repo - _By Tarun Raveesh_
-
 Hi there..!!
 This is Tarun Raveesh of CSE A S2 2020.
 
@@ -25,4 +24,8 @@ This is Tarun Raveesh of CSE A S2 2020.
 | <a href="https://github.com/TarunRaveesh/amFOSS-tasks/tree/main/Task-15">Task-15</a> | Project Euler | Pending |
 
 ## The About
+To simply put, the tasks were super cool. I did some of the tasks in Oct and Nov 2020, didn't get selected for the first interview as I had Covid, in December when it happened.
 
+And ever since then I've been trying to get into the club but had a several more back to back problems, like an Appendicitis Surgery and many more. But, here I am, almost late by 4 months, hoping to get in and cope up with everybody as soon and as productively as Possible. 
+
+Again coming back to the tasks, they are just fine if u know how and what to ask. I had help from few of my classmates who are already in the club.
