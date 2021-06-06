@@ -1,6 +1,5 @@
 # amFOSS-tasks Repo - _By Tarun Raveesh_
-Hi there..!!
-This is Tarun Raveesh of CSE A S2 2020.
+amFOSS Tasks submission by Tarun Raveesh - CSE A S2 2020.
 
 ## Contents
 
@@ -16,12 +15,12 @@ This is Tarun Raveesh of CSE A S2 2020.
 | <a href="https://github.com/TarunRaveesh/amFOSS-tasks/tree/main/Task-07">Task-07</a> | Ubiquitous UI | Pending |
 | <a href="https://github.com/TarunRaveesh/amFOSS-tasks/tree/main/Task-08">Task-08</a> | Sir Perceval’s quest | Completed |
 | <a href="https://github.com/TarunRaveesh/amFOSS-tasks/tree/main/Task-09">Task-09</a> | Spammer Spaghetti | Completed |
-| <a href="https://github.com/TarunRaveesh/amFOSS-tasks/tree/main/Task-10">Task-10</a> | CS50 | (4-psets) Completed |
+| <a href="https://github.com/TarunRaveesh/amFOSS-tasks/tree/main/Task-10">Task-10</a> | CS50 | Completed |
 | <a href="https://github.com/TarunRaveesh/amFOSS-tasks/tree/main/Task-11">Task-11</a> | Poster Design | Completed |
 | <a href="https://github.com/TarunRaveesh/amFOSS-tasks/tree/main/Task-12">Task-12</a> | If Math was fun :P - Codechef | Completed |
 | <a href="https://github.com/TarunRaveesh/amFOSS-tasks/tree/main/Task-13">Task-13</a> | Circuit Design | Completed |
 | <a href="https://github.com/TarunRaveesh/amFOSS-tasks/tree/main/Task-14">Task-14</a> | Bandit | Completed |
-| <a href="https://github.com/TarunRaveesh/amFOSS-tasks/tree/main/Task-15">Task-15</a> | Project Euler | Pending |
+| <a href="https://github.com/TarunRaveesh/amFOSS-tasks/tree/main/Task-15">Task-15</a> | Project Euler | Completed |
 
 ## The About
-The Tasks were super cool and also quite tough. Learnt good stuff and Google was the Saviour.
+Hi there! I'm Tarun and am a Tech enthusiast. To put it briefly, I basically joined the college for the Club but haven't been able to get-in yet due to some reasons. But well now, I'm almost done with all the tasks and am looking forward to jump in. The Tasks were super cool and also quite challenging, and as suggested *Google* was the most helpful and productive source.
