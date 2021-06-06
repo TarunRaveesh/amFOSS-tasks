@@ -1,10 +1,9 @@
-t = int(input())
-while (t>0):
+for i in range(int(input())):
     k = int(input())
     s = input()
     a = s.split()
     sum = 0
-    
+
     if (len(a) > k):
         for j in a[k]:
             sum += ord(j)
@@ -12,4 +11,3 @@ while (t>0):
         sum = -1
 
     print(sum)
-    t -= 1
