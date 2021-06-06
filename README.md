@@ -23,4 +23,4 @@ amFOSS Tasks submission by Tarun Raveesh - CSE A S2 2020.
 | <a href="https://github.com/TarunRaveesh/amFOSS-tasks/tree/main/Task-15">Task-15</a> | Project Euler | Completed |
 
 ## The About
-Hi there! I'm Tarun and am a Tech enthusiast. To put it briefly, I basically joined the college for the Club but haven't been able to get-in yet due to some reasons. But well now, I'm almost done with all the tasks and am looking forward to jump in. The Tasks were super cool and also quite challenging, and as suggested *Google* was the most helpful and productive source.
+Hi there! I'm Tarun. I basically joined the college for the Club but haven't been able to get-in yet due to some reasons. But well now, I'm almost done with all the tasks and am looking forward to jump in. The Tasks were super cool and also quite challenging, and as suggested *Google* was the most helpful and productive resource.
