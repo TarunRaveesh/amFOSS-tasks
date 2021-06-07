@@ -1,2 +1,2 @@
 ## Task 12 - If Math was fun :P - Codechef
-Incomplete
+This problem was easy, I'm glad that the JEE Prep is getting utilized somewhere 😆. Anyhow, I first learnt a bit of Java (a friend of mine helped me with this) and wrote a code as I thought python would cause some Timeout errors. But then I anyhow also wrote a code in Python and it also got accepted. So, I have uploaded both the solutions, please check them out.
