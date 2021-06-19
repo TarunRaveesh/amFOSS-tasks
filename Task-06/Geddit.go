@@ -18,7 +18,7 @@ func main() {
 
 func run() (err error) {
 
-	credentials := reddit.Credentials{ID: "RbD7oJqxZA31UA", Secret: "OCLUQF_2nBXbVGXFi3dwi1D9GJs4AA", Username: "Trance_x07", Password: "tarun5570"}
+	credentials := reddit.Credentials{ID: "RbD7oJqxZA31UA", Secret: "O*********AA", Username: "Trance_x07", Password: "*****"}
 	client, _ := reddit.NewClient(credentials)
 
 	sr, _, err := reddit.DefaultClient().Subreddit.Get(ctx, "memes")
