@@ -23,4 +23,4 @@ amFOSS Tasks submission by Tarun Raveesh - CSE A S2 2020.
 | <a href="https://github.com/TarunRaveesh/amFOSS-tasks/tree/main/Task-15">Task-15</a> | Project Euler | Completed |
 
 ## The About
-Hola! I'm Tarun Raveesh of CSE A, I hail from AP but have been to different places owing to my dad's job. As a result I can speak Hindi, Tamil and Telugu. So, coming straight to the point, I basically joined the college for the Club but haven't been able to get in yet due to a few problems which have been resolved for good. Well, now I'm almost done with all the tasks and looking forward to jump in finally. The Tasks btw were super cool and also quite challenging, and as suggested **Google** was extremely useful 😌. Ciao!
+amFOSS entry tasks by Tarun Raveesh, feel free to fork and refer!!
