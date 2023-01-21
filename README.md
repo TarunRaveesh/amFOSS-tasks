@@ -1,5 +1,5 @@
-# amFOSS-tasks Repo - _By Tarun Raveesh_
-amFOSS Tasks submission by Tarun Raveesh - CSE A S2 2020.
+# amFOSS-tasks Repo
+amFOSS Task submission by Tarun Raveesh, feel free to fork and refer!!
 
 ## Contents
 
@@ -21,6 +21,3 @@ amFOSS Tasks submission by Tarun Raveesh - CSE A S2 2020.
 | <a href="https://github.com/TarunRaveesh/amFOSS-tasks/tree/main/Task-13">Task-13</a> | Circuit Design | Completed |
 | <a href="https://github.com/TarunRaveesh/amFOSS-tasks/tree/main/Task-14">Task-14</a> | Bandit | Completed |
 | <a href="https://github.com/TarunRaveesh/amFOSS-tasks/tree/main/Task-15">Task-15</a> | Project Euler | Completed |
-
-## The About
-amFOSS entry tasks by Tarun Raveesh, feel free to fork and refer!!
